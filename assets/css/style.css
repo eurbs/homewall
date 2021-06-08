@@ -869,7 +869,8 @@ section {
 }
 
 .portfolio-details .portfolio-details-slider {
-  margin-right: 2.6em;
+  margin-right: 0.2em;
+  margin-left: 0.2em;
 }
 .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #d43076;
